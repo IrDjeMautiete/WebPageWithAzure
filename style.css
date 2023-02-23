@@ -1,0 +1,98 @@
+body
+{
+    background-color: yellow
+}
+
+.title
+{
+
+  
+}
+
+.resume
+{
+    
+}
+.textResume
+{
+    text-align: center;
+
+}
+.bio
+{
+    
+}
+.imgBio
+{
+   
+}
+.textBio
+{
+    
+}
+.addImg
+{
+    
+}
+.addImg_1
+{
+    
+}
+.addImg_2
+{
+    
+}
+.main
+{
+    display: flex; /* Rend l'interface de la fenêtre fexible*/
+    height : 100%;
+    margin: auto;
+    background-color: yellow;
+}
+
+.leftZone
+{
+    width: 120px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    border : 2px solid red;
+    
+
+
+}
+.centerZone
+{
+    width: 70%;
+    height: auto;
+    margin : 20px;
+    background-color: white;
+    border : 2px solid red;
+}
+.rightZone
+{
+    width: 120px;
+    height: auto;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    border : 2px solid red;
+
+}
+.bottomBar
+{
+
+}
+
+/*     width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center */
