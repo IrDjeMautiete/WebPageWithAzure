@@ -6,7 +6,7 @@ body
 .title
 {
 
-  
+    text-align: center;
 }
 
 .resume
@@ -24,7 +24,9 @@ body
 }
 .imgBio
 {
-   
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .textBio
 {
